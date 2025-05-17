@@ -30,3 +30,4 @@ An ATM Management System implemented in Java with a graphical user interface usi
 - **Java**: Core application logic
 - **JSwing and AWT**: GUI components
 - **MySQL**: Database for user and transaction data
+
